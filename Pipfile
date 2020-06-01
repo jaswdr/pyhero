@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+prompt-toolkit = "==3.0.5"
+scipy = "==1.4.1"
+numpy = "==1.18.4"
+matplotlib = "==3.2.1"
+ffmpeg-python = "==0.2.0"
+future = "==0.18.2"
+kiwisolver = "==1.2.0"
+pyparsing = "==2.4.7"
+python-dateutil = "==2.8.1"
+six = "==1.15.0"
+wcwidth = "==0.2.2"
+youtube_dl = "==2020.5.29"
+Cycler = "==0.10.0"
+
+[requires]
+python_version = "3.7"
